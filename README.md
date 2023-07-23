@@ -3,6 +3,7 @@
 
 
 Repo for MagicHacks 2023 Hackathon
+Proejct Contributors: Anupam, Michelle, Jamie
 
 ## Inspiration:
 
