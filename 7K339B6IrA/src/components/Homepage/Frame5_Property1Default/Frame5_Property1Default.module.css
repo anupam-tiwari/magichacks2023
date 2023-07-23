@@ -1,0 +1,35 @@
+.profileCircle.profileCircle {
+  width: 35px;
+  height: 35px;
+}
+.vuesaxLinearProfileCircle.vuesaxLinearProfileCircle {
+  width: 35px;
+  height: 35px;
+}
+.vuesaxLinearProfileCircle {
+  width: 35px;
+  height: 35px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 20px;
+  top: 18px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+}
+.profile {
+  color: #7fd18c;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

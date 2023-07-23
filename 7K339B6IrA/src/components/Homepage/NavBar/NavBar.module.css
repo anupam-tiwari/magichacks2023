@@ -1,0 +1,26 @@
+.frame2.frame2 {
+  left: 36px;
+  top: 23px;
+}
+.frame3.frame3 {
+  left: 134px;
+  top: 24px;
+}
+.frame4.frame4 {
+  left: 224px;
+  top: 24px;
+}
+.frame5.frame5 {
+  left: 311px;
+  top: 22px;
+}
+.root {
+  position: relative;
+  width: 393px;
+  height: 92px;
+  align-items: flex-start;
+  border-radius: 10px 10px 0 0;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 1px 0px 12px 1px #00000040;
+}
