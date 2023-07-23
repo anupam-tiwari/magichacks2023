@@ -1,5 +1,7 @@
 # magichacks2023
 ![Alt Text](https://i.ibb.co/cy0Dbpx/Screenshot-2023-07-23-at-12-28-11-PM.png)
+
+
 Repo for MagicHacks 2023 Hackathon
 
 ## Inspiration:
