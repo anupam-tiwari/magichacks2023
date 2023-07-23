@@ -1,5 +1,5 @@
 # magichacks2023
-![Alt Text](https://i.ibb.co/cy0Dbpx/Screenshot-2023-07-23-at-12-28-11-PM.png)
+![Alt Text]([https://i.ibb.co/cy0Dbpx/Screenshot-2023-07-23-at-12-28-11-PM.png](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/530/973/datas/full_width.png))
 
 
 Repo for MagicHacks 2023 Hackathon
